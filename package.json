@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node backend/index.js",
-    "start": "node backend/index.js"
+    "dev": "npm --prefix backend run dev",
+    "start": "npm --prefix backend run start"
   },
   "repository": {
     "type": "git",
