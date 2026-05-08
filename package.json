@@ -1,0 +1,23 @@
+{
+  "name": "ai-powered-music",
+  "version": "1.0.0",
+  "description": "This repo was empty; Phase 3 will be implemented via a full-stack scaffold: - Next.js (React, Tailwind, Framer Motion) - Express backend API - Background jobs (dev-ready queue) - Storage abstraction (S3-compatible)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node backend/index.js",
+    "start": "node backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridhamguptaprogramming-ops/AI-powered-music.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ridhamguptaprogramming-ops/AI-powered-music/issues"
+  },
+  "homepage": "https://github.com/ridhamguptaprogramming-ops/AI-powered-music#readme"
+}
