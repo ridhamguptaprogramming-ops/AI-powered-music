@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "workspaces": [],
   "bugs": {
     "url": "https://github.com/ridhamguptaprogramming-ops/AI-powered-music/issues"
   },
